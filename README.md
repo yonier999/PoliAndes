@@ -1,4 +1,4 @@
-[![Poliandes](Logo "Poliandes")](https://i.imgur.com/fTmoGeh.png "Poliandes")
+[![Poliandes](Logo "Poliandes")](web/images/LogoPoliandes.png "Poliandes")
 # PoliAndes
 Pagina de la Politécnica de los Andes
 
