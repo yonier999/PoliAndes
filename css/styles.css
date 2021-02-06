@@ -2294,4 +2294,7 @@ a:hover.back-to-top {
     .nav-item {
         margin-left: -0.5rem !important;
     }
+    .swiper-slide {
+        width: 470px !important;
+    }
 }

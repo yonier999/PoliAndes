@@ -1,3 +1,6 @@
+var escuelasImg = document.querySelectorAll('.escuela_img');
+console.log(escuelasImg)
+
 function isMobile() {
     return (
         (navigator.userAgent.match(/Android/i)) ||
@@ -32,6 +35,11 @@ if (isMobile()) {
         });
 
     });
+    for (let escuela of escuelasImg) {
+        escuela.width = 420;
+    }
+
+
 } else {
     // avento de scroll
     $(document).ready(function() {
