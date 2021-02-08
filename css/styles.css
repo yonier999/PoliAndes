@@ -2347,3 +2347,7 @@ textarea {
 .media {
     align-items: center;
 }
+
+.img_izq {
+    margin-left: 17%;
+}
