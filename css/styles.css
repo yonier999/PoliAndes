@@ -2351,3 +2351,37 @@ textarea {
 .img_izq {
     margin-left: 17%;
 }
+
+.subTitulo {
+    font-weight: 900;
+    font-size: 19px;
+}
+
+.color_rojo {
+    color: #E00C19;
+}
+
+.color_naranja {
+    color: #E55210;
+}
+
+.color_amarillo {
+    color: #BEA306;
+}
+
+.color_verde {
+    color: #006633;
+}
+
+.color_azul {
+    color: #2D2E82;
+}
+
+@font-face {
+    font-family: "Myriad_hebrew";
+    src: url("../webfonts/myriad-hebrew-4.otf");
+}
+
+.fuente {
+    font-family: Myriad_hebrew;
+}
