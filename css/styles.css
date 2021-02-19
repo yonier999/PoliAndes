@@ -2363,18 +2363,22 @@ textarea {
 
 .color_naranja {
     color: #E55210;
+    margin-left: 20px;
 }
 
 .color_amarillo {
     color: #BEA306;
+    margin-left: 40px;
 }
 
 .color_verde {
     color: #006633;
+    margin-left: 60px;
 }
 
 .color_azul {
     color: #2D2E82;
+    margin-left: 80px;
 }
 
 @font-face {
@@ -2384,4 +2388,10 @@ textarea {
 
 .fuente {
     font-family: Myriad_hebrew;
+    font-weight: 600;
+}
+
+.posicion {
+    margin-top: -1px;
+    margin-left: 0;
 }
